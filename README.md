@@ -44,7 +44,7 @@ The dashboard uses historical sales data to visualize customer purchasing behavi
 <img width="977" alt="Bike sales Dashboard" src="https://github.com/user-attachments/assets/00c55c7a-1aaa-4c29-b375-74672614a1dd" />
 
 ## Contact
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🔗 **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/yourprofile)  
-🖥 **GitHub:** [YourGitHubProfile](https://github.com/yourprofile)
+📧 **Email:** [vinmathi.iyappan@gmail.com](mailto:vinmathi.iyappan@gmail.com)  
+🔗 **LinkedIn:** [Vinmathi-iyappan](https://linkedin.com/in//vinmathi-iyappan/)  
+🖥 **GitHub:** [Vinmathiiyappan](https://github.com/Vinmathiiyappan)
 
